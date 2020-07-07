@@ -72,3 +72,4 @@ exclude:
  - "*.nb"
  - "*.bk"
  - "*.draft"
+theme: jekyll-theme-hacker
